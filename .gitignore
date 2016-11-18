@@ -5,3 +5,7 @@ provenance.properties
 bin
 .git
 .DS_Store
+/target/
+/.classpath
+/.project
+/.settings/*
